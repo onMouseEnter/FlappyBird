@@ -887,9 +887,9 @@ MonoBehaviour:
   scoreText: {fileID: 345248828}
   gameOver: 0
   scrollSpeed: -3
-  dieSound: {fileID: 8300000, guid: dc07b332a45602f4a80548ca377ae161, type: 3}
+  dieSound: {fileID: 8300000, guid: e9e81125ed9d94f8f9b3402834d9b3fd, type: 3}
   flySound: {fileID: 8300000, guid: 6c80bb91768cd95468965b5f172fac04, type: 3}
-  scoreSound: {fileID: 8300000, guid: 6c80bb91768cd95468965b5f172fac04, type: 3}
+  scoreSound: {fileID: 8300000, guid: 87ccc4bd8ed5e4adca273ac17a0060c4, type: 3}
 --- !u!4 &889124130
 Transform:
   m_ObjectHideFlags: 0
@@ -1226,9 +1226,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: dc07b332a45602f4a80548ca377ae161, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 3cda8a42fd95b49cd984b1948d1197a5, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.219
   m_Pitch: 1
   Loop: 0
   Mute: 0
